@@ -1,0 +1,16 @@
+body {
+    background-color: #D6D8DA;
+}
+h1 {
+    font-size: 2em;
+    color: blueviolet;
+}
+.parrafo {
+    font-size: 1.5em;
+    font-style: Verdana;
+}
+#tercer_parrafo {
+    font-size: 1.2em;
+    font-style: Arial;
+    color: blue;
+}
